@@ -3,8 +3,8 @@
 # Byte-compiled / optimized / DLL files
 *.swp
 */*.swp
-*/data/*
-data/*
+#*/data/*
+#data/*
 tmp/
 */*/__pycache__
 */__pycache__
